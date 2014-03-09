@@ -1,7 +1,10 @@
 name:           snap-utils
 version:        0.1.0
-synopsis:       Snap Framework utility funtions.
-description:    Utilities for Snap Framework apps.
+synopsis:       Snap Framework utilities.
+description:    Snap.Utils provides helper modules for making web apps
+                with Snap Framework. The underlying design goal is to rely on more
+                traditional HTTP-based methods of stateless control flow instead of
+                relying on cookies and server state continuations.
 license:        BSD3
 author:         Luke Hoersten
 maintainer:     Luke Hoersten <luke@hoersten.org>
