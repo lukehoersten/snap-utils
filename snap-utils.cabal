@@ -1,5 +1,5 @@
 name:           snap-utils
-version:        0.1.0
+version:        0.1.1
 synopsis:       Snap Framework utilities.
 description:    Snap.Utils provides helper modules for making web apps
                 with Snap Framework. The underlying design goal is to rely on more

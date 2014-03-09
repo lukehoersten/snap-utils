@@ -1,3 +1,12 @@
+{-|
+
+@Snap.Utils@ provides helper modules for making web apps with Snap
+Framework. The underlying design goal is to rely on more traditional
+HTTP-based methods of stateless control flow instead of relying on
+cookies and server state continuations.
+
+-}
+
 module Snap.Utils
        ( module Snap.Utils.Alert
          -- $alerts
